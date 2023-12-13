@@ -1,5 +1,8 @@
 #intro
 {
-    width: auto;
-    height: auto;
+    margin: auto;
+}
+*
+{
+    background-color: aquamarine;
 }
