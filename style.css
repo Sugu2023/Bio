@@ -1,8 +1,9 @@
 #intro
 {
-    margin: auto;
+    margin-left: auto;
+    margin-top: auto;
 }
 *
 {
-    background-color: aquamarine;
+    background-image: url(into-bg.jpg);
 }
